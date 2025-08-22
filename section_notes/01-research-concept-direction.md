@@ -1,3 +1,5 @@
+# Research Concept & Direction
+
 
 
 # Research Concept & Direction
@@ -74,3 +76,4 @@ This research concept provides the foundation for systematic experimental valida
 3. Functional characterization of stability vs. immunogenicity relationships
 4. Cross-variant validation of proposed stabilization frameworks 
 
+     
