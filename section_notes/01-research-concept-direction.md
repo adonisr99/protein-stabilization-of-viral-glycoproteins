@@ -1,9 +1,5 @@
 # Research Concept & Direction
 
-# Research Concept & Direction
-
-# Research Concept & Direction
-
 # Core Research Problem
 
 asda
