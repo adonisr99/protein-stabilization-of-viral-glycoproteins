@@ -69,7 +69,7 @@ Current literature makes several key assumptions that present opportunities for 
 
 Establish new design principles for viral glycoprotein vaccines
 
-1. sada
+1. sadas
 
 Provide superior immunogens for current and future coronavirus variants
 
