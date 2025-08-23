@@ -72,16 +72,10 @@ Current literature makes several key assumptions that present opportunities for 
 **Field Transformation Potential**: Success in validating these hypotheses could:
 
 1. Establish new design principles for viral glycoprotein vaccines
-
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-
-1.
-2. Provide superior immunogens for current and future coronavirus variants
-3. Create generalizable frameworks applicable to other viral fusion proteins
-4. Challenge the field's assumptions about optimal vaccine antigen design
+2.
+3. Provide superior immunogens for current and future coronavirus variants
+4. Create generalizable frameworks applicable to other viral fusion proteins
+5. Challenge the field's assumptions about optimal vaccine antigen design
 
 ## Next Steps
 
