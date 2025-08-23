@@ -1,4 +1,10 @@
+# Research Concept & Direction
+
+# Research Concept & Direction
+
 # Core Research Problem
+
+asda
 
 Develop novel stabilization strategies for viral glycoproteins that challenge fundamental assumptions in current prefusion stabilization approaches, specifically targeting SARS-CoV-2 spike protein and other coronavirus glycoproteins for improved vaccine immunogenicity.
 
@@ -67,7 +73,14 @@ Current literature makes several key assumptions that present opportunities for 
 
 **Field Transformation Potential**: Success in validating these hypotheses could:
 
-1. Establish new design principles for viral glycoprotein vaccine
+1. Establish new design principles for viral glycoprotein vaccines
+
+|   |   |   |
+| - | - | - |
+|   |   |   |
+|   |   |   |
+
+1.
 2. Provide superior immunogens for current and future coronavirus variants
 3. Create generalizable frameworks applicable to other viral fusion proteins
 4. Challenge the field's assumptions about optimal vaccine antigen design
