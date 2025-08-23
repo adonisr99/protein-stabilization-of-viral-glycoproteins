@@ -1,6 +1,4 @@
-
-
-# Core Research Problem&#x20;
+# Core Research Problem &#x20;
 
 Develop novel stabilization strategies for viral glycoproteins that challenge fundamental assumptions in current prefusion stabilization approaches, specifically targeting SARS-CoV-2 spike protein and other coronavirus glycoproteins for improved vaccine immunogenicity.
 
@@ -101,7 +99,7 @@ Current literature makes several key assumptions that present opportunities for 
 **Literature-Level Impact**: These hypotheses challenge fundamental assumptions spanning multiple dimensions:
 
 * **Technical**: Alternative to dominant proline-substitution paradigm
-* **Theoretical**: Questioning static vs. dynamic stabilization models  
+* **Theoretical**: Questioning static vs. dynamic stabilization models
 * **Practical**: Framework for variant-adapted vaccine design
 * **Methodological**: Systems-level approach to protein stabilization
 * **Evaluation**: Shift from thermal to functional stability metrics
@@ -127,18 +125,21 @@ This research concept provides the foundation for systematic experimental valida
 ## Experimental Validation Framework
 
 **Phase 1: Assumption Testing**
+
 1. Systematic comparison of thermal vs. functional stability metrics across known stabilized variants
 2. Dynamic conformational analysis of current vaccine antigens using MD simulations
 3. Cross-variant stability analysis to identify universal vs. variant-specific destabilization patterns
 
 **Phase 2: Hypothesis Validation**
+
 1. Computational screening of cavity-filling mutations vs. proline substitutions
 2. Design and test dynamics-informed stabilization strategies
 3. Evaluate controlled post-fusion exposure effects on immune breadth
 4. High-throughput functional stability assays for rational design validation
 
 **Phase 3: Field Impact Assessment**
-1. Cross-variant immunogenicity studies with novel stabilization approaches  
+
+1. Cross-variant immunogenicity studies with novel stabilization approaches
 2. Longitudinal stability studies under storage conditions
 3. Breadth of immune response evaluation for dynamics-informed designs
 4. Comparative analysis against current vaccine platforms
@@ -149,4 +150,3 @@ This research concept provides the foundation for systematic experimental valida
 **Technical Innovation**: Superior performance metrics compared to current proline-based approaches
 **Methodological Impact**: Adoption of new design principles by other research groups
 **Practical Translation**: Improved vaccine candidates ready for preclinical development
-
