@@ -45,10 +45,7 @@ Current literature makes several key assumptions that present opportunities for 
 ### Hypothesis 2: Dynamic Stabilization Over Static Fixation
 
 **Prior work assumes**: Maximum rigidity in prefusion state equals optimal immunogenicity
-**We propose**: Controlled conformational dynamics within the prefusion state enhance immune recognition
-**This matters because**: It could explain why some highly stabilized variants show reduced immunogenicity and guide design of next-generation vaccines
-
-### Hypothesis 3: Cooperative Multi-Domain Stabilization
+**We propose**: Controlled conformational dynaabilization
 
 **Prior work assumes**: Stabilizing individual domains independently is sufficient
 **We propose**: Engineering cooperative stabilization networks across multiple domains yields synergistic stability improvements
