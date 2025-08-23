@@ -2,7 +2,7 @@
 
 # Research Concept & Direction
 
-# Core Research Problem
+# Core Research Problem 
 
 Develop novel stabilization strategies for viral glycoproteins that challenge fundamental assumptions in current prefusion stabilization approaches, specifically targeting SARS-CoV-2 spike protein and other coronavirus glycoproteins for improved vaccine immunogenicity.
 
