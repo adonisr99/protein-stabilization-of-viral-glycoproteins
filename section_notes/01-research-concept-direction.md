@@ -4,7 +4,7 @@
 
 Develop novel stabilization strategies for viral glycoproteins that challenge fundamental assumptions in current prefusion stabilization approaches, specifically targeting SARS-CoV-2 spike protein and other coronavirus glycoproteins for improved vaccine immunogenicity.
 
-## Literature-Level Assumptions Identified
+## Literature-Level Assumptions Identified&#x20;
 
 Current literature makes several key assumptions that present opportunities for impactful research:
 
